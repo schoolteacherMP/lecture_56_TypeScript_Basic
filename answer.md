@@ -25,19 +25,23 @@
 
 ## Задача 6.   
 ### 
- 
+ ![image](https://user-images.githubusercontent.com/113675674/230479153-e131b9d9-be6c-4458-8e6a-0dd487d24f63.png)  
+
 
 
 ## Задача 7.   
 ### Enum  
+![image](https://user-images.githubusercontent.com/113675674/230479264-584dcb6c-d9f9-48c0-a9c0-e9793574a2df.png)  
 
 
 
 ## Задача 8.   
 ### Псевдонимы типов (Type Aliases)  
+![image](https://user-images.githubusercontent.com/113675674/230479368-e1350a0a-5527-436d-952a-5454fd5c41a2.png)  
 
 
 ## Задача 9.   
 ### Тип Any  
+![image](https://user-images.githubusercontent.com/113675674/230479506-a9da64f4-f0b6-4d9e-ad89-6b7af6599a82.png)  
 
 
